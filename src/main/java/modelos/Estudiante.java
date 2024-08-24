@@ -1,4 +1,4 @@
-package models;
+package modelos;
 
 public class Estudiante {
     private String cif;
@@ -89,7 +89,7 @@ public class Estudiante {
         if (notaFinal >= 70 && notaFinal <= 100){
             return "Clase aprobada";
         } else if(notaFinal >= 0 && notaFinal < 70){
-            return "Clase reporbada";
+            return "Clase reprobada";
         } else {
             return "Nota invalida";
         }

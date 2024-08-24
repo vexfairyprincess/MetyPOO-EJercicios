@@ -1,6 +1,7 @@
-package models;
+package notaUAM;
 
-import models.Estudiante;
+import modelos.Estudiante;
+
 import java.util.Scanner;
 
 public class Main {

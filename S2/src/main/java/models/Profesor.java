@@ -21,6 +21,4 @@ public class Profesor {
     public void enseñar(Curso curso){
         System.out.println(nombre + " está enseñando " + curso.getNombre());
     }
-
-
 }

@@ -17,5 +17,10 @@ public class Main {
             System.out.println(doc.getNombre());
             System.out.println("=".repeat(13));
         }
+        Biblioteca biblioteca = new Biblioteca();
+        biblioteca.agregarLibro("Fundamentos de Bases de Datos:");
+        biblioteca.mostrarLibros();
+
+        //Perro andres = new Perro();
     }
 }

@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="S2" />
+        <module name="S2-Sesion3" />
+        <module name="S2-Sesion4" />
+        <module name="S1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

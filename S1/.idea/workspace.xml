@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4180-91d9-4ba4-9934-d8fcabdd6f41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S2-Sesion3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S2-Sesion3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2-Sesion4/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S2-Sesion4/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2-Sesion4/target/classes/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +22,12 @@
     &quot;assignee&quot;: &quot;vexfairyprincess&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/vexfairyprincess/MetyPOO-EJercicios.git&quot;,
-    &quot;accountId&quot;: &quot;55879317-aaa2-4779-a6c3-0b2fd599363b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vexfairyprincess/MetyPOO-Ejercicios.git",
+    "accountId": "55879317-aaa2-4779-a6c3-0b2fd599363b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -52,8 +51,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -68,6 +67,7 @@
       <workItem from="1725022784710" duration="22000" />
       <workItem from="1725155284999" duration="25000" />
       <workItem from="1725157128821" duration="260000" />
+      <workItem from="1725338143881" duration="229000" />
     </task>
     <servers />
   </component>

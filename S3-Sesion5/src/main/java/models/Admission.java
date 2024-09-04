@@ -9,12 +9,8 @@ public class Admission {
     /**
      * @param student
      */
-
+    // Metodo para verificar si el estudiante es candidato a beca
     public void calcScholarship(Student student){
-        if(student.getAverage() >= 80){
-            student.setScholarship(true);
-        } else {
-            student.setScholarship(false);
-        }
+        student.setScholarship(student.getAverage() >= 80);
     }
 }

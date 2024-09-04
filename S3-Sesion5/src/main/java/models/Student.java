@@ -8,10 +8,12 @@ public class Student {
     private String firstName;
     private String lastName;
 
+    //Constructor vacio
     public Student(){
 
     }
 
+    //Constructor con todos los atributos
     public Student(boolean isScholarship, float average, String cif, String career, String firstName, String lastName) {
         this.isScholarship = isScholarship;
         this.average = average;
@@ -21,6 +23,7 @@ public class Student {
         this.lastName = lastName;
     }
 
+    //Getters y Setters
     public float getAverage() {
         return average;
     }
